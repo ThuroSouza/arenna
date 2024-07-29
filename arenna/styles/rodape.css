@@ -44,14 +44,15 @@
     }
 
     .rodape__logo{
-        width: 50vw;
-        height: 50vw;
-        padding: 0;
+        width: 80vw;
+        height: 20vw;
+        padding-top: 1.5em;
     }
     
     .rodape__div{
         display: flex;
         flex-direction: column;
+        padding-bottom: 0.8em;
     }
 
     .rodape__div_titulo{
@@ -59,9 +60,17 @@
         padding: 1.3em 0 0.5em 0;
     }
 
+    .rodape__div_grupos{
+        padding-bottom: 0.8em;
+    }
+
     .rodape__mapa{
         width: 70vw;
         height: 70vw;
         border: 2px solid black;
     }
+}
+
+@media screen and (min-width: 431px; max-width:1366px){
+    
 }
