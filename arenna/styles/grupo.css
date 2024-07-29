@@ -127,6 +127,10 @@
         align-content: center;
     }
 
+    .section__arenna_imagem{
+        width: 80vw;
+    }
+
     .section__ultraeco_imagem{
         width: 80vw;
         padding-bottom: 1.2em;
